@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "236265861479",
+    "firebase_url": "https://workout-fabcb.firebaseio.com",
+    "project_id": "workout-fabcb",
+    "storage_bucket": "workout-fabcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236265861479:android:4b0345317897ec58",
+        "android_client_info": {
+          "package_name": "com.dailtonrabelo.workoutapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236265861479-ncl7v2irv1ke18m6v1elrd94uka3qbnt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dailtonrabelo.workoutapp",
+            "certificate_hash": "a078bf2cf9970cc81a8c3fd5aa89750c62888607"
+          }
+        },
+        {
+          "client_id": "236265861479-r5tvmspb222s6l8lcsera6ggfulogh57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3ZYXiqqt7xyCaC6xhPAdC91iOCjiKegk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236265861479-r5tvmspb222s6l8lcsera6ggfulogh57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
